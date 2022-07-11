@@ -1,0 +1,14 @@
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.exe
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.deps.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.runtimeconfig.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.runtimeconfig.dev.json
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.csproj.AssemblyReference.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.AssemblyInfoInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.AssemblyInfo.cs
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.csproj.CoreCompileInputs.cache
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.dll
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.pdb
+C:\Users\smile\Desktop\Programming Fundamentals with C# - септември 2022\Basic Syntax - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.genruntimeconfig.cache
