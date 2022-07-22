@@ -1,4 +1,4 @@
-# -Programming-Fundamentals
+#Programming-Fundamentals
 Software University  Programming Fundamentals with C#
 
 The skills they will acquire
